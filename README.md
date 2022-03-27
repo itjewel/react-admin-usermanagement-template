@@ -1,4 +1,6 @@
 # reactjs user-management admin template
+# See Demo Link: http://jewelfarazi.xyz/
+
 # Using: 
 - ReactJS 17.0.2
 
@@ -40,11 +42,6 @@ $ yarn start:n17
 ## Documentation
 
 The documentation for the CoreUI Admin Template is hosted at our website [CoreUI for React](https://coreui.io/react/)
-
-
-Complete For usermanagemnt Design:
-Folder Link: reactjs user-management admin template
-See Demo Link: http://jewelfarazi.xyz/
 
 
 
