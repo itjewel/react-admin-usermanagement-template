@@ -1,0 +1,10 @@
+$white_font_color: #ffffff;
+$white_border_color: 1px solid #303c5414;
+$background_color: #ffffff5e;
+.nav-tabs	{
+		background:$background_color;
+}
+
+.nav-tabs>li {
+	border-bottom: $white_border_color;
+}
